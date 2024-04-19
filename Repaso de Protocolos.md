@@ -20,9 +20,10 @@ Piensa en los estándares de protocolo aceptados comúnmente para el envío de m
 
 | **Requisito del protocolo** | **¿Qué significa esto?** | **¿Cómo se implementa en su protocolo?** |
 | --------------------------- | ------------------------ | ---------------------------------------- |
-| Un emisor y un receptor identificados | ¿Cómo sabe de quién es el mensaje de texto? ¿Cómo sabe la persona en el otro extremo que usted recibió el mensaje? ¿Va dirigido a una persona o a un grupo? | En mensajería de texto, el emisor y el receptor generalmente se identifican por el número de teléfono, el nombre de usuario o el apodo. Los mensajes de texto se pueden enviar a un grupo predefinido o a grupos nuevos que se crean según la necesidad. |
+| Un emisor y un receptor identificados | ¿Cómo sabe de quién es el mensaje de texto? ¿Cómo sabe la persona en el otro extremo que usted recibió el mensaje?¿Va dirigido a una persona o a un grupo? | En mensajería de texto, el emisor y el receptor generalmente se identifican por el número de teléfono, el nombre de usuario o el apodo. Los mensajes de texto se pueden enviar a un grupo predefinido o a grupos nuevos que se crean según la necesidad. |
 
-| Un método de comunicación acordado | **¿Qué significa esto?** | **¿Cómo se implementa en su protocolo?** |
+| Un método de comunicación acordado | ¿Solo enviamos texto? ¿Enviamos y recibimos fotos?¿Y los emoticones y emoji? | El texto puede ser en mensajes cortos o párrafos. Las fotos pueden subirse como archivos adjunto o enlaces. Y en cuanto a los emoticones o emojis pueden agregar claridad al texto. |
+
 | Idioma y gramática común | **¿Qué significa esto?** | **¿Cómo se implementa en su protocolo?** |
 | Velocidad y momento de entrega | **¿Qué significa esto?** | **¿Cómo se implementa en su protocolo?** |
 | Requisitos de confirmación o acuse de recibo | **¿Qué significa esto?** | **¿Cómo se implementa en su protocolo?** |
