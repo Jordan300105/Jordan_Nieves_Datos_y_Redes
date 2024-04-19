@@ -19,6 +19,7 @@ Piensa en los estándares de protocolo aceptados comúnmente para el envío de m
 # Tu protocolo de mensajería de texto
 
 | **Requisito del protocolo** | **¿Qué significa esto?** | **¿Cómo se implementa en su protocolo?** |
+| --------------------------- | ------------------------ | ---------------------------------------- |
 
 # Preguntas
 1.	Ahora que anotaste los protocolos que usan el enviar y leer mensajes de texto, ¿crees que estos protocolos serían los mismos si estuviera escribiendo a amigos que si estuviera escribiendo a sus padres o profesores? Explica tu respuesta.
